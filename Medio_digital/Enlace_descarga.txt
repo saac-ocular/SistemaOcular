@@ -1,0 +1,7 @@
+MEDIO DIGITAL DEL PROYECTO SISTEMAOCULAR
+
+Descarga de los archivos completos:
+https://github.com/saac-ocular/SistemaOcular/releases/tag/medio-digital
+
+En la sección Assets, selecciona Medio_digital_completo.zip.
+Después de descargarlo, descomprímelo para acceder a todas las carpetas.
